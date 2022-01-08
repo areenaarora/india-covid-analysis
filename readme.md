@@ -4,3 +4,6 @@ Source of data: [Ministry of Health and Welfare, Government of India](https://ww
 
 *Important disclaimer about COVID data*
 [How Not to Interpret COVID-19 Data](https://covidtracking.com/analysis-updates/how-not-to-interpret-covid-19-data)
+
+#### Tech stack used
+PDF Miner
